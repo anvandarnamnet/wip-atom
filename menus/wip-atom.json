@@ -1,0 +1,38 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label":"Activate WIP",
+        "command":"wip-atom:activate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "wip-atom",
+          "submenu": [
+            {
+              "label": "Download project",
+              "command": "wip-atom:downloadProject"
+            },
+            {
+              "label":"Create configfile",
+              "command":"wip-atom:createConfig"
+            },
+            {
+              "label":"Upload project",
+              "command":"wip-atom:uploadItems"
+            },
+            {
+              "label":"Activate wip-atom",
+              "command":"wip-atom:activate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
