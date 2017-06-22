@@ -1,6 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-s": "wip-atom:uploadItems",
+    "ctrl-alt-u": "wip-atom:uploadItems",
     "ctrl-alt-d": "wip-atom:downloadProject",
     "ctrl-alt-c": "wip-atom:createConfig"
   }
