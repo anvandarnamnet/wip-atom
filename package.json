@@ -2,7 +2,7 @@
   "name": "wip-atom",
   "main": "./lib/wip-atom",
   "version": "0.2.0",
-  "description": "Paket för att enklare kunna redigera dynapp projekt i atom",
+  "description": "Paket för att enklare kunna redigera dynapp-projekt i atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "wip-atom:activate"
